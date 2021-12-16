@@ -15,7 +15,8 @@
     └── bd_net.h5
     └── bd_weights.h5
 ├── architecture.py
-└── eval.py // this is the evaluation script
+├── eval.py // this is the evaluation script
+└── repair.py // this is the model repair script
 ```
 
 ## I. Dependencies
