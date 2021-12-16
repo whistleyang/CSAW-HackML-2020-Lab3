@@ -8,9 +8,9 @@
     └── bd
         └── bd_valid.h5 // this is sunglasses poisoned validation data
         └── bd_test.h5  // this is sunglasses poisoned test data
-        └──
-        └──
-        └──
+        └── repaired_bd_net.h5 // this is the net that repaired from bad net which accuracy on validation set drops 4%
+        └── repaired_bd_net1.h5 // this is the net that repaired from bad net which accuracy on validation set drops 10%
+        └── repaired_bd_net2.h5 // this is the net that repaired from bad net which accuracy on validation set drops 2%
 ├── models
     └── bd_net.h5
     └── bd_weights.h5
