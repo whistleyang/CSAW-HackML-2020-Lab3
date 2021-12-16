@@ -8,6 +8,9 @@
     └── bd
         └── bd_valid.h5 // this is sunglasses poisoned validation data
         └── bd_test.h5  // this is sunglasses poisoned test data
+        └──
+        └──
+        └──
 ├── models
     └── bd_net.h5
     └── bd_weights.h5
